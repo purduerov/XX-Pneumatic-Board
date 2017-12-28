@@ -148,7 +148,7 @@
 <wire x1="39.802" y1="0" x2="39.802" y2="38.09" width="0" layer="20"/>
 <wire x1="39.802" y1="38.09" x2="0" y2="38.09" width="0" layer="20"/>
 <wire x1="0" y1="38.09" x2="0" y2="0" width="0" layer="20"/>
-<text x="29.972" y="8.636" size="1.27" layer="21" font="vector">Pneumatics
+<text x="29.972" y="8.636" size="1.27" layer="21">Pneumatics
 Board v1.0
 Rov XX
 Jason King</text>
